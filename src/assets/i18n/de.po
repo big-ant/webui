@@ -20,7 +20,7 @@ msgid " Plugin"
 msgstr " Plugin"
 
 msgid " Service"
-msgstr ""
+msgstr " Dienst"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
@@ -61,7 +61,7 @@ msgid " is "
 msgstr " ist"
 
 msgid " is required."
-msgstr ""
+msgstr " wird benötigt."
 
 msgid ""
 " is the minimum recommended record size. Choosing a smaller size can reduce "
@@ -74,7 +74,7 @@ msgid ""
 msgstr ""
 
 msgid " service has been enabled."
-msgstr ""
+msgstr " Dienst wurde aktiviert."
 
 msgid " system is powered on and connected to the network."
 msgstr ""
@@ -83,7 +83,7 @@ msgid " to include all "
 msgstr ""
 
 msgid " update successful"
-msgstr ""
+msgstr " Aktualisierung erfolgreich"
 
 msgid " updated."
 msgstr " aktualisiert."
@@ -6812,7 +6812,7 @@ msgid ""
 msgstr ""
 
 msgid "Operating System"
-msgstr ""
+msgstr "Betriebssystem"
 
 msgid "Operation"
 msgstr ""
@@ -6856,7 +6856,7 @@ msgid ""
 msgstr ""
 
 msgid "Organization"
-msgstr ""
+msgstr "Organisation"
 
 msgid "Organizational Unit"
 msgstr ""
@@ -6874,10 +6874,10 @@ msgid "Out"
 msgstr ""
 
 msgid "Outgoing Mail Server"
-msgstr ""
+msgstr "Ausgehender Mail-Server"
 
 msgid "Owner"
-msgstr ""
+msgstr "Besitzer"
 
 msgid "Owner of the jail. Can be any string."
 msgstr ""
@@ -6892,7 +6892,7 @@ msgid ""
 msgstr ""
 
 msgid "PENDING"
-msgstr ""
+msgstr "AUSSTEHEND"
 
 msgid "POST INSTALL NOTES"
 msgstr ""
@@ -6982,7 +6982,7 @@ msgid ""
 msgstr ""
 
 msgid "Path"
-msgstr ""
+msgstr "Pfad"
 
 msgid ""
 "Path to the <b>CheckIP Server</b>. For example,  <i>no-ip.com</i> uses a "
@@ -7053,10 +7053,10 @@ msgid "Permissions Type"
 msgstr ""
 
 msgid "Permit Sudo"
-msgstr ""
+msgstr "Sudo erlauben"
 
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 msgid "Phone Number"
 msgstr ""
@@ -7068,13 +7068,13 @@ msgid "PiB"
 msgstr ""
 
 msgid "Platform"
-msgstr ""
+msgstr "Plattform"
 
 msgid "Please accept the terms of service for the given ACME Server."
 msgstr ""
 
 msgid "Please enter your password"
-msgstr ""
+msgstr "Bitte Passwort eingeben"
 
 msgid "Please enter your password again"
 msgstr ""
@@ -7210,7 +7210,7 @@ msgid "Prefer buttons with icons only"
 msgstr ""
 
 msgid "Preferences"
-msgstr ""
+msgstr "Voreinstellungen"
 
 msgid "Preserve extended attributes"
 msgstr ""
